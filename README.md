@@ -1,6 +1,6 @@
 # 👨‍💻 Mateo Francisco Laria – Desarrollador Backend
 
-🔗 Versión en inglés: [README in English](README_EN.md)
+🔗 English version: [README in English](README_EN.md)
 
 ¡Hola! Soy Mateo Laria, Técnico Universitario en Programación, egresado de la Universidad Tecnológica Nacional (UTN – FRP). Me especializo en el **desarrollo Backend con Java**, aunque también tengo experiencia en proyectos FullStack. Me apasiona construir soluciones limpias, escalables y mantenibles.
 
